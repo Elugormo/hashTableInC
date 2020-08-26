@@ -1,2 +1,2 @@
-# hashTableInC
-Hash table in C using linked list
+# Hash Table Implementation in C language
+
